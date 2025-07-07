@@ -1,0 +1,1 @@
+Ce projet vise à coder une intelligence artificielle qui permet de jouer au puissance 4. Nous utilisons ici un algorithme de type Min-Max. Pour une profondeur données, l'IA teste tout les coups possible avec comme horizon la profondeur. L'objectif est d'avoir un score pour chaque coup possible au coup t, après étude des coups t+profondeur possibles, et ainsi de faire un choix.
